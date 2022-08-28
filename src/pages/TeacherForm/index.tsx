@@ -1,9 +1,9 @@
 import React from "react"
 
-function TeacherList(){
+function TeacherForm(){
   return(
-    <h1>Teachers</h1>
+    <h1>Teachers Form</h1>
   )
 }
 
-export default TeacherList
+export default TeacherForm
